@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "tragobook",
+    "slug": "tragobook",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/favicon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/favicon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "60ba86ff-23f9-4086-8aa7-baa7f5c9a83c"
+      }
+    }
+  }
+}
