@@ -12,12 +12,17 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jerinbabujb007.tragobook"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/favicon.png",
         "backgroundColor": "#ffffff"
+      },
+      "package": "com.jerinbabujb007.tragobook",
+      "theme": {
+        "dark": false
       }
     },
     "web": {
