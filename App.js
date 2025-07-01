@@ -24,7 +24,7 @@ export default function App() {
         </View>
       )}
       <WebView
-        source={{ uri: 'https://tragobook.com' }}
+        source={{ uri: 'https://google.com' }}
         style={styles.webview}
         onLoadStart={handleLoadStart}
         onLoadEnd={handleLoadEnd}
